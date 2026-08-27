@@ -6,9 +6,9 @@ This is a machine learning project that aims to implement / create a nowcasting 
 
 The problem stems from a time lag:
 
-- Market prices for oil, petrol, diesel and the EUR/USD exchange rate are observed **daily**
-- The Italian HICP for fuels is published **monthly** and with a delay
-- Therefore, for several weeks, we know what is happening in the markets, but we do not yet officially know by how much the prices paid by Italian consumers have changed
+- Market prices for oil, petrol, diesel and the EUR/USD exchange rate are observed **daily**.
+- The Italian HICP for fuels is published **monthly** and with a delay.
+- Therefore, for several weeks, we know what is happening in the markets, but we do not yet officially know by how much the prices paid by Italian consumers have changed.
 
 Can we use energy market data available today to estimate how fuel inflation is behaving in Italy before Eurostat publishes the figures?
 
